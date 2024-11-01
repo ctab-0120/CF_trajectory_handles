@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='Camilla Tabasso',
     maintainer_email='camilla-tabasso@uiowa.edu',
-    description='Set up publisher for control points',
+    description='Trajectory handler for Crazyflie swarm',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
